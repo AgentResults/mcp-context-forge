@@ -1,0 +1,7 @@
+{
+  "folders": [
+    { "name": "mcp-context-forge (AgentResults fork)", "path": "." },
+    { "name": "Legion", "path": "../Legion" }
+  ],
+  "settings": {}
+}
